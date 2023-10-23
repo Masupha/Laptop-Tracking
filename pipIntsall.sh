@@ -1,4 +1,4 @@
-sudo apt install python-pip
+sudo apt install python3-pip
 sudo pip install gspread
 sudo pip install openpyxl
 sudo mv bin.tar.gz /usr/local/bin
