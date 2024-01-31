@@ -6,6 +6,6 @@ After=network.target
 Type=simple
 
 User=openmrs
-ExecStart=/usr/bin/python3 /usr/local/bin/SerialNumber.py
+ExecStart=/usr/bin/python3 /usr/local/bin/location4.py
 [Install]
 WantedBy=multi-user.target
