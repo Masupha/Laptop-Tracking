@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "laptop-tracker-380206",
+  "private_key_id": "edb321b384710994b3ec87f1ddc49657680eb792",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQChE1OlP7XWXZHT\n9jA0I6gSt6wagT70Q5b9L0ZNvNrhCrVP1EmTcSpYjwujQ+Bvaj+E3cJdFIpUqIZx\nHc/KwGNyU4bw5e+C+QCzglLxYYdYEr0lcY3gdcXrbsJBeiXEbRum8TUMGY9u8hT7\nY3xAvJsaSyNt0zTaqeApZDCo9ree3P8lg3Y3QUcEs6eB1lLyTcaEb2ZJ2YUEmDQn\nOvuwV1AvmCbXelAMx8yBcKuhbzrifZvqXR67ToVyaOMQpZmX+bd3eIm8ud7cBErq\nsILkEoHPlbLFKIY/b0v3dMktOl+aWULlQeukGVO1JoaVb9ZnuBDxdpVPofRiLahz\nGiehE+xtAgMBAAECggEADOZP1hWWme7PbXKzZJGQdcNI4KyGHqjFEEy3bCVaQBiL\n8bM2Gz0+X25BR9d5Q2L2aE0cMjkhZOtELQ3upLWooTDIR0Wa21nWsQmYW+VsIeUK\nSdPgwV+dNKAfpX/DQ4pbYxDBJ1Fqt79iZ8mNW1/fagkncrWt728YWShBb16m0O2Q\nVBKanhK8raYe8oLBuJQ9hyPpcR+DIBLkcK1oNhQERml7XOSZMQteXAbQZNXuVPDn\njkxsSBIRBMITpsB5t+X4t/zlojUFHml2msLMlw3Gati/x9QNr3kCRlu+iTKOLcIG\niIFdaySMkrJ48FEdnOjyj36aL4O7SVAKDpL+VN9HDwKBgQDZ+gafxfTC1l+WqFZr\nLRZXfwNgAc1z84EM5ngedMn00JAXoPI/0cejVTb/U2KqHRD+iwwT8RPWvx3eZxk/\nCEC/OS6Vsqw/QJta7i1fluj8oOf2tTRhO+f/Rm7woA6yXzJOhhP0PBrlTI3Bocfh\n1gBFXrLMaBWeDfqAubdwkMyYLwKBgQC9LFH0VWG+9h+/wNud9MZdtioG3XMkbTPn\n8EOdC1m8Hx9ioDTMhcuiScyjeBo27q1XJkx0DGzqzP5GGnuHDRdxWw+ch8P0v6V3\nq3nUN/OG2/JbJBTyFyz6ofM+Oj9KZVuRy1hOvS61doUhZGxUjw6FJNDrzEMcKVvX\nMJEhQVFCIwKBgQCrOsddV0nwjCpG1TIduytjzDjAgGn+ffiQQ7N0aVYEZJnsldf2\n3jovSk+LvtswuuiQrHXubGCjPzqdbOveIgOKs8aufc7lWUEw6wzlnEylt1jA6pOd\nFkwmshOQHous/y8rlBO0tkqCeeKZixbThyJrW/qkq9bfdCemWz2IxZaSrQKBgGjY\nAWvrTksp2ZrK5mz61l3lshEv9rq/kz7+2FpXihpLHXfp1plrpdqCEFqhG9ZKHePp\nJAJFSLAxgNOVpdTJmq6Gi3ZzgFVLSgezD8hgYiXiDMYaj0lFMvaNf2SDn8Q5vLBn\nBMBO9W45C7vgDnIm/yMnrmqhQKiA+5eeITFPJBwFAoGBANnofOypbWZG8Eoaamef\nTSfEXT3Xwpb4WuqGgUN1F40xHrPW3j2nxAdsSPQ8TeziqH8Q354TPiDj1UmLLoj1\nMid/0wAH7dq0wzLfNgqCBAz2gHTnOvmJ3pMN5DED2JfvvWfy43O22G8YLMWF0/bS\n5PpTxELjhxzAdeCU1hhFkVp1\n-----END PRIVATE KEY-----\n",
+  "client_email": "icap-laptops-online-activity-t@laptop-tracker-380206.iam.gserviceaccount.com",
+  "client_id": "104917372200844151944",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/icap-laptops-online-activity-t%40laptop-tracker-380206.iam.gserviceaccount.com"
+}
